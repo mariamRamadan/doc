@@ -46,4 +46,4 @@ As a student I want to access my account so that I can manage my profile and see
 * Once you finish this task please send the URL of the GitHub to mohammed.abukwaik@exa.com.sa with a subject called **exam**
 * You can use **PHP, .NET or Python** as a backend programming language to implement this task
 * The interaction between the frontend and the backend should be taken place through the using of **RESTFUL APIs**
-* The deadline of this issue is : June, 5, 2017 3:20 PM
+* The deadline of this issue is : **June, 5, 2017 3:20 PM**
